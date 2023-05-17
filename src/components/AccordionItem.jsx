@@ -1,4 +1,3 @@
-import React from "react";
 import "./AccordionItem.css";
 import { FaChevronDown } from "react-icons/fa";
 
